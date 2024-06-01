@@ -99,7 +99,7 @@ app.get("/*", function (req, res) {
 });
 
 //mongodb connection
-mongoose.connect(`MONGODB_CONNECTION_STRING`, {
+mongoose.connect(`mongodb+srv://saddamakbar203:M2UXRa2WV4SmgJy2@cluster0.ztig437.mongodb.net/`, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
