@@ -16,5 +16,5 @@ module.exports = {
   baseURL: "http://sklivestream.com/",
 
   //firebase server key for send notification
-  SERVER_KEY: "SERVER_KEY",
+  SERVER_KEY: "4JjBc6ZTkOlnnyGZzqGzi3OgFkak_Wb2cTVjDHm-W0w",
 };
