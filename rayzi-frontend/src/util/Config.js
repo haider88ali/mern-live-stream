@@ -1,2 +1,2 @@
-exports.baseURL = "https://yourdomain.com/";
+exports.baseURL = "http://sklivestream.com/";
 exports.key = "ENTER_YOUR_KEY";
