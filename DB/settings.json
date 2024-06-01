@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "61caef95720a639baec620c7"
+  },
+  "referralBonus": 100,
+  "agoraKey": "2638d9cbeb76479496721b7cb15483b1",
+  "agoraCertificate": "61cd572f0f894f75b705a1a67bc164d1",
+  "maxSecondForVideo": 15,
+  "privacyPolicyLink": "privacyPolicyLink",
+  "privacyPolicyText": "privacyPolicyText",
+  "chatCharge": 0,
+  "googlePlayEmail": "GOOGLE PLAY EMAIL",
+  "googlePlayKey": "GOOGLE PLAY KEY",
+  "googlePlaySwitch": true,
+  "stripeSwitch": true,
+  "stripePublishableKey": "STRIPE PUBLISHABLE KEY",
+  "stripeSecretKey": "STRIPE SECRET KEY",
+  "currency": "$",
+  "rCoinForDiamond": 10,
+  "isAppActive": true,
+  "freeDiamondForAd": 10,
+  "maxAdPerDay": 5,
+  "rCoinForCashOut": 200,
+  "loginBonus": 800,
+  "paymentGateway": [
+    "UPI",
+    "Paytm",
+    "Banking"
+  ],
+  "minRcoinForCashOut": 10,
+  "updatedAt": {
+    "$date": "2024-02-14T04:21:38.359Z"
+  },
+  "isFake": true,
+  "vipDiamond": 20,
+  "femaleCallCharge": 100,
+  "maleCallCharge": 10
+}]

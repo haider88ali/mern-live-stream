@@ -1,0 +1,3263 @@
+[{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110852"
+  },
+  "name": "Åland Islands",
+  "flag": "https://flagcdn.com/ax.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110853"
+  },
+  "name": "Albania",
+  "flag": "https://flagcdn.com/al.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110854"
+  },
+  "name": "Algeria",
+  "flag": "https://flagcdn.com/dz.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110855"
+  },
+  "name": "American Samoa",
+  "flag": "https://flagcdn.com/as.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110856"
+  },
+  "name": "Andorra",
+  "flag": "https://flagcdn.com/ad.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110857"
+  },
+  "name": "Angola",
+  "flag": "https://flagcdn.com/ao.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110858"
+  },
+  "name": "Anguilla",
+  "flag": "https://flagcdn.com/ai.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110859"
+  },
+  "name": "Antarctica",
+  "flag": "https://flagcdn.com/aq.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511085a"
+  },
+  "name": "Antigua and Barbuda",
+  "flag": "https://flagcdn.com/ag.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511085b"
+  },
+  "name": "Argentina",
+  "flag": "https://flagcdn.com/ar.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511085c"
+  },
+  "name": "Armenia",
+  "flag": "https://flagcdn.com/am.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511085d"
+  },
+  "name": "Aruba",
+  "flag": "https://flagcdn.com/aw.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511085e"
+  },
+  "name": "Australia",
+  "flag": "https://flagcdn.com/au.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511085f"
+  },
+  "name": "Austria",
+  "flag": "https://flagcdn.com/at.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110860"
+  },
+  "name": "Azerbaijan",
+  "flag": "https://flagcdn.com/az.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110862"
+  },
+  "name": "Bahrain",
+  "flag": "https://flagcdn.com/bh.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110861"
+  },
+  "name": "Bahamas",
+  "flag": "https://flagcdn.com/bs.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110863"
+  },
+  "name": "Bangladesh",
+  "flag": "https://flagcdn.com/bd.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110864"
+  },
+  "name": "Barbados",
+  "flag": "https://flagcdn.com/bb.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110865"
+  },
+  "name": "Belarus",
+  "flag": "https://flagcdn.com/by.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110866"
+  },
+  "name": "Belgium",
+  "flag": "https://flagcdn.com/be.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110868"
+  },
+  "name": "Benin",
+  "flag": "https://flagcdn.com/bj.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110867"
+  },
+  "name": "Belize",
+  "flag": "https://flagcdn.com/bz.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110869"
+  },
+  "name": "Bermuda",
+  "flag": "https://flagcdn.com/bm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511086b"
+  },
+  "name": "Bolivia (Plurinational State of)",
+  "flag": "https://flagcdn.com/bo.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110851"
+  },
+  "name": "Afghanistan",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.215Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.215Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511086d"
+  },
+  "name": "Bosnia and Herzegovina",
+  "flag": "https://flagcdn.com/ba.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511086e"
+  },
+  "name": "Botswana",
+  "flag": "https://flagcdn.com/bw.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511086f"
+  },
+  "name": "Bouvet Island",
+  "flag": "https://flagcdn.com/bv.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110870"
+  },
+  "name": "Brazil",
+  "flag": "https://flagcdn.com/br.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110871"
+  },
+  "name": "British Indian Ocean Territory",
+  "flag": "https://flagcdn.com/io.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110872"
+  },
+  "name": "United States Minor Outlying Islands",
+  "flag": "https://flagcdn.com/um.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110873"
+  },
+  "name": "Virgin Islands (British)",
+  "flag": "https://flagcdn.com/vg.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110874"
+  },
+  "name": "Virgin Islands (U.S.)",
+  "flag": "https://flagcdn.com/vi.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110875"
+  },
+  "name": "Brunei Darussalam",
+  "flag": "https://flagcdn.com/bn.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110876"
+  },
+  "name": "Bulgaria",
+  "flag": "https://flagcdn.com/bg.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110877"
+  },
+  "name": "Burkina Faso",
+  "flag": "https://flagcdn.com/bf.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110878"
+  },
+  "name": "Burundi",
+  "flag": "https://flagcdn.com/bi.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110879"
+  },
+  "name": "Cambodia",
+  "flag": "https://flagcdn.com/kh.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511087a"
+  },
+  "name": "Cameroon",
+  "flag": "https://flagcdn.com/cm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511087b"
+  },
+  "name": "Canada",
+  "flag": "https://flagcdn.com/ca.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511087c"
+  },
+  "name": "Cabo Verde",
+  "flag": "https://flagcdn.com/cv.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511087d"
+  },
+  "name": "Cayman Islands",
+  "flag": "https://flagcdn.com/ky.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511087f"
+  },
+  "name": "Chad",
+  "flag": "https://flagcdn.com/td.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511087e"
+  },
+  "name": "Central African Republic",
+  "flag": "https://flagcdn.com/cf.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110880"
+  },
+  "name": "Chile",
+  "flag": "https://flagcdn.com/cl.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110881"
+  },
+  "name": "China",
+  "flag": "https://flagcdn.com/cn.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110882"
+  },
+  "name": "Christmas Island",
+  "flag": "https://flagcdn.com/cx.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110883"
+  },
+  "name": "Cocos (Keeling) Islands",
+  "flag": "https://flagcdn.com/cc.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110884"
+  },
+  "name": "Colombia",
+  "flag": "https://flagcdn.com/co.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110885"
+  },
+  "name": "Comoros",
+  "flag": "https://flagcdn.com/km.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110886"
+  },
+  "name": "Congo",
+  "flag": "https://flagcdn.com/cg.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110887"
+  },
+  "name": "Congo (Democratic Republic of the)",
+  "flag": "https://flagcdn.com/cd.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110888"
+  },
+  "name": "Cook Islands",
+  "flag": "https://flagcdn.com/ck.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110889"
+  },
+  "name": "Costa Rica",
+  "flag": "https://flagcdn.com/cr.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511088a"
+  },
+  "name": "Croatia",
+  "flag": "https://flagcdn.com/hr.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511088c"
+  },
+  "name": "Curaçao",
+  "flag": "https://flagcdn.com/cw.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511088b"
+  },
+  "name": "Cuba",
+  "flag": "https://flagcdn.com/cu.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511088d"
+  },
+  "name": "Cyprus",
+  "flag": "https://flagcdn.com/cy.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511088e"
+  },
+  "name": "Czech Republic",
+  "flag": "https://flagcdn.com/cz.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511086a"
+  },
+  "name": "Bhutan",
+  "flag": "https://flagcdn.com/bt.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110890"
+  },
+  "name": "Djibouti",
+  "flag": "https://flagcdn.com/dj.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110891"
+  },
+  "name": "Dominica",
+  "flag": "https://flagcdn.com/dm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511086c"
+  },
+  "name": "Bonaire, Sint Eustatius and Saba",
+  "flag": "https://flagcdn.com/bq.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110893"
+  },
+  "name": "Ecuador",
+  "flag": "https://flagcdn.com/ec.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110894"
+  },
+  "name": "Egypt",
+  "flag": "https://flagcdn.com/eg.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110895"
+  },
+  "name": "El Salvador",
+  "flag": "https://flagcdn.com/sv.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110896"
+  },
+  "name": "Equatorial Guinea",
+  "flag": "https://flagcdn.com/gq.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110898"
+  },
+  "name": "Estonia",
+  "flag": "https://flagcdn.com/ee.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110897"
+  },
+  "name": "Eritrea",
+  "flag": "https://flagcdn.com/er.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110899"
+  },
+  "name": "Ethiopia",
+  "flag": "https://flagcdn.com/et.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511089a"
+  },
+  "name": "Falkland Islands (Malvinas)",
+  "flag": "https://flagcdn.com/fk.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511089b"
+  },
+  "name": "Faroe Islands",
+  "flag": "https://flagcdn.com/fo.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511089c"
+  },
+  "name": "Fiji",
+  "flag": "https://flagcdn.com/fj.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511089d"
+  },
+  "name": "Finland",
+  "flag": "https://flagcdn.com/fi.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511089e"
+  },
+  "name": "France",
+  "flag": "https://flagcdn.com/fr.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108a1"
+  },
+  "name": "French Southern Territories",
+  "flag": "https://flagcdn.com/tf.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511089f"
+  },
+  "name": "French Guiana",
+  "flag": "https://flagcdn.com/gf.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108a0"
+  },
+  "name": "French Polynesia",
+  "flag": "https://flagcdn.com/pf.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108a2"
+  },
+  "name": "Gabon",
+  "flag": "https://flagcdn.com/ga.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108a3"
+  },
+  "name": "Gambia",
+  "flag": "https://flagcdn.com/gm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108a4"
+  },
+  "name": "Georgia",
+  "flag": "https://flagcdn.com/ge.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108a5"
+  },
+  "name": "Germany",
+  "flag": "https://flagcdn.com/de.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108a6"
+  },
+  "name": "Ghana",
+  "flag": "https://flagcdn.com/gh.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108a7"
+  },
+  "name": "Gibraltar",
+  "flag": "https://flagcdn.com/gi.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108a9"
+  },
+  "name": "Greenland",
+  "flag": "https://flagcdn.com/gl.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108a8"
+  },
+  "name": "Greece",
+  "flag": "https://flagcdn.com/gr.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108aa"
+  },
+  "name": "Grenada",
+  "flag": "https://flagcdn.com/gd.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ab"
+  },
+  "name": "Guadeloupe",
+  "flag": "https://flagcdn.com/gp.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ac"
+  },
+  "name": "Guam",
+  "flag": "https://flagcdn.com/gu.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ad"
+  },
+  "name": "Guatemala",
+  "flag": "https://flagcdn.com/gt.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ae"
+  },
+  "name": "Guernsey",
+  "flag": "https://flagcdn.com/gg.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108af"
+  },
+  "name": "Guinea",
+  "flag": "https://flagcdn.com/gn.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108b0"
+  },
+  "name": "Guinea-Bissau",
+  "flag": "https://flagcdn.com/gw.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108b2"
+  },
+  "name": "Haiti",
+  "flag": "https://flagcdn.com/ht.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108b1"
+  },
+  "name": "Guyana",
+  "flag": "https://flagcdn.com/gy.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108b3"
+  },
+  "name": "Heard Island and McDonald Islands",
+  "flag": "https://flagcdn.com/hm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108b5"
+  },
+  "name": "Honduras",
+  "flag": "https://flagcdn.com/hn.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108b4"
+  },
+  "name": "Vatican City",
+  "flag": "https://flagcdn.com/va.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108b6"
+  },
+  "name": "Hungary",
+  "flag": "https://flagcdn.com/hu.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108b7"
+  },
+  "name": "Hong Kong",
+  "flag": "https://flagcdn.com/hk.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108b8"
+  },
+  "name": "Iceland",
+  "flag": "https://flagcdn.com/is.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108b9"
+  },
+  "name": "India",
+  "flag": "https://flagcdn.com/in.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108bd"
+  },
+  "name": "Iraq",
+  "flag": "https://flagcdn.com/iq.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108bc"
+  },
+  "name": "Iran (Islamic Republic of)",
+  "flag": "https://flagcdn.com/ir.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511088f"
+  },
+  "name": "Denmark",
+  "flag": "https://flagcdn.com/dk.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108bb"
+  },
+  "name": "Ivory Coast",
+  "flag": "https://flagcdn.com/ci.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108be"
+  },
+  "name": "Ireland",
+  "flag": "https://flagcdn.com/ie.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108bf"
+  },
+  "name": "Isle of Man",
+  "flag": "https://flagcdn.com/im.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110892"
+  },
+  "name": "Dominican Republic",
+  "flag": "https://flagcdn.com/do.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108c1"
+  },
+  "name": "Italy",
+  "flag": "https://flagcdn.com/it.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108c2"
+  },
+  "name": "Jamaica",
+  "flag": "https://flagcdn.com/jm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108c3"
+  },
+  "name": "Japan",
+  "flag": "https://flagcdn.com/jp.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108c4"
+  },
+  "name": "Jersey",
+  "flag": "https://flagcdn.com/je.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108c5"
+  },
+  "name": "Jordan",
+  "flag": "https://flagcdn.com/jo.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108c6"
+  },
+  "name": "Kazakhstan",
+  "flag": "https://flagcdn.com/kz.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108c7"
+  },
+  "name": "Kenya",
+  "flag": "https://flagcdn.com/ke.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108c9"
+  },
+  "name": "Kuwait",
+  "flag": "https://flagcdn.com/kw.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108c8"
+  },
+  "name": "Kiribati",
+  "flag": "https://flagcdn.com/ki.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ca"
+  },
+  "name": "Kyrgyzstan",
+  "flag": "https://flagcdn.com/kg.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108cb"
+  },
+  "name": "Lao People's Democratic Republic",
+  "flag": "https://flagcdn.com/la.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108cd"
+  },
+  "name": "Lebanon",
+  "flag": "https://flagcdn.com/lb.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108cc"
+  },
+  "name": "Latvia",
+  "flag": "https://flagcdn.com/lv.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ce"
+  },
+  "name": "Lesotho",
+  "flag": "https://flagcdn.com/ls.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108cf"
+  },
+  "name": "Liberia",
+  "flag": "https://flagcdn.com/lr.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108d0"
+  },
+  "name": "Libya",
+  "flag": "https://flagcdn.com/ly.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108d1"
+  },
+  "name": "Liechtenstein",
+  "flag": "https://flagcdn.com/li.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108d3"
+  },
+  "name": "Luxembourg",
+  "flag": "https://flagcdn.com/lu.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108d2"
+  },
+  "name": "Lithuania",
+  "flag": "https://flagcdn.com/lt.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108d4"
+  },
+  "name": "Macao",
+  "flag": "https://flagcdn.com/mo.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108d6"
+  },
+  "name": "Madagascar",
+  "flag": "https://flagcdn.com/mg.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108d7"
+  },
+  "name": "Malawi",
+  "flag": "https://flagcdn.com/mw.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108d5"
+  },
+  "name": "North Macedonia",
+  "flag": "https://flagcdn.com/mk.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108d8"
+  },
+  "name": "Malaysia",
+  "flag": "https://flagcdn.com/my.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108d9"
+  },
+  "name": "Maldives",
+  "flag": "https://flagcdn.com/mv.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108da"
+  },
+  "name": "Mali",
+  "flag": "https://flagcdn.com/ml.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108db"
+  },
+  "name": "Malta",
+  "flag": "https://flagcdn.com/mt.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108dc"
+  },
+  "name": "Marshall Islands",
+  "flag": "https://flagcdn.com/mh.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108de"
+  },
+  "name": "Mauritania",
+  "flag": "https://flagcdn.com/mr.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108e0"
+  },
+  "name": "Mayotte",
+  "flag": "https://flagcdn.com/yt.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108dd"
+  },
+  "name": "Martinique",
+  "flag": "https://flagcdn.com/mq.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108df"
+  },
+  "name": "Mauritius",
+  "flag": "https://flagcdn.com/mu.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108e1"
+  },
+  "name": "Mexico",
+  "flag": "https://flagcdn.com/mx.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108e3"
+  },
+  "name": "Moldova (Republic of)",
+  "flag": "https://flagcdn.com/md.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108e2"
+  },
+  "name": "Micronesia (Federated States of)",
+  "flag": "https://flagcdn.com/fm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108e4"
+  },
+  "name": "Monaco",
+  "flag": "https://flagcdn.com/mc.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108e5"
+  },
+  "name": "Mongolia",
+  "flag": "https://flagcdn.com/mn.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108e6"
+  },
+  "name": "Montenegro",
+  "flag": "https://flagcdn.com/me.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108e7"
+  },
+  "name": "Montserrat",
+  "flag": "https://flagcdn.com/ms.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108e8"
+  },
+  "name": "Morocco",
+  "flag": "https://flagcdn.com/ma.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108e9"
+  },
+  "name": "Mozambique",
+  "flag": "https://flagcdn.com/mz.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ec"
+  },
+  "name": "Nauru",
+  "flag": "https://flagcdn.com/nr.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ea"
+  },
+  "name": "Myanmar",
+  "flag": "https://flagcdn.com/mm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108eb"
+  },
+  "name": "Namibia",
+  "flag": "https://flagcdn.com/na.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ed"
+  },
+  "name": "Nepal",
+  "flag": "https://flagcdn.com/np.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ee"
+  },
+  "name": "Netherlands",
+  "flag": "https://flagcdn.com/nl.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ef"
+  },
+  "name": "New Caledonia",
+  "flag": "https://flagcdn.com/nc.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108f0"
+  },
+  "name": "New Zealand",
+  "flag": "https://flagcdn.com/nz.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108f1"
+  },
+  "name": "Nicaragua",
+  "flag": "https://flagcdn.com/ni.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108f2"
+  },
+  "name": "Niger",
+  "flag": "https://flagcdn.com/ne.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108f3"
+  },
+  "name": "Nigeria",
+  "flag": "https://flagcdn.com/ng.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ba"
+  },
+  "name": "Indonesia",
+  "flag": "https://flagcdn.com/id.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108f5"
+  },
+  "name": "Norfolk Island",
+  "flag": "https://flagcdn.com/nf.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108f7"
+  },
+  "name": "Northern Mariana Islands",
+  "flag": "https://flagcdn.com/mp.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108f6"
+  },
+  "name": "Korea (Democratic People's Republic of)",
+  "flag": "https://flagcdn.com/kp.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108f8"
+  },
+  "name": "Norway",
+  "flag": "https://flagcdn.com/no.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108f9"
+  },
+  "name": "Oman",
+  "flag": "https://flagcdn.com/om.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108fb"
+  },
+  "name": "Palau",
+  "flag": "https://flagcdn.com/pw.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108fa"
+  },
+  "name": "Pakistan",
+  "flag": "https://flagcdn.com/pk.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108c0"
+  },
+  "name": "Israel",
+  "flag": "https://flagcdn.com/il.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108fd"
+  },
+  "name": "Panama",
+  "flag": "https://flagcdn.com/pa.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108fe"
+  },
+  "name": "Papua New Guinea",
+  "flag": "https://flagcdn.com/pg.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110900"
+  },
+  "name": "Peru",
+  "flag": "https://flagcdn.com/pe.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108ff"
+  },
+  "name": "Paraguay",
+  "flag": "https://flagcdn.com/py.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110901"
+  },
+  "name": "Philippines",
+  "flag": "https://flagcdn.com/ph.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110902"
+  },
+  "name": "Pitcairn",
+  "flag": "https://flagcdn.com/pn.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110903"
+  },
+  "name": "Poland",
+  "flag": "https://flagcdn.com/pl.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110904"
+  },
+  "name": "Portugal",
+  "flag": "https://flagcdn.com/pt.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110905"
+  },
+  "name": "Puerto Rico",
+  "flag": "https://flagcdn.com/pr.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110906"
+  },
+  "name": "Qatar",
+  "flag": "https://flagcdn.com/qa.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110907"
+  },
+  "name": "Republic of Kosovo",
+  "flag": "https://flagcdn.com/xk.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110908"
+  },
+  "name": "Réunion",
+  "flag": "https://flagcdn.com/re.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110909"
+  },
+  "name": "Romania",
+  "flag": "https://flagcdn.com/ro.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511090b"
+  },
+  "name": "Rwanda",
+  "flag": "https://flagcdn.com/rw.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511090a"
+  },
+  "name": "Russian Federation",
+  "flag": "https://flagcdn.com/ru.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511090c"
+  },
+  "name": "Saint Barthélemy",
+  "flag": "https://flagcdn.com/bl.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511090d"
+  },
+  "name": "Saint Helena, Ascension and Tristan da Cunha",
+  "flag": "https://flagcdn.com/sh.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110910"
+  },
+  "name": "Saint Martin (French part)",
+  "flag": "https://flagcdn.com/mf.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511090f"
+  },
+  "name": "Saint Lucia",
+  "flag": "https://flagcdn.com/lc.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511090e"
+  },
+  "name": "Saint Kitts and Nevis",
+  "flag": "https://flagcdn.com/kn.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110911"
+  },
+  "name": "Saint Pierre and Miquelon",
+  "flag": "https://flagcdn.com/pm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110912"
+  },
+  "name": "Saint Vincent and the Grenadines",
+  "flag": "https://flagcdn.com/vc.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110913"
+  },
+  "name": "Samoa",
+  "flag": "https://flagcdn.com/ws.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110914"
+  },
+  "name": "San Marino",
+  "flag": "https://flagcdn.com/sm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110915"
+  },
+  "name": "Sao Tome and Principe",
+  "flag": "https://flagcdn.com/st.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110917"
+  },
+  "name": "Senegal",
+  "flag": "https://flagcdn.com/sn.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110916"
+  },
+  "name": "Saudi Arabia",
+  "flag": "https://flagcdn.com/sa.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110918"
+  },
+  "name": "Serbia",
+  "flag": "https://flagcdn.com/rs.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110919"
+  },
+  "name": "Seychelles",
+  "flag": "https://flagcdn.com/sc.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511091a"
+  },
+  "name": "Sierra Leone",
+  "flag": "https://flagcdn.com/sl.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511091c"
+  },
+  "name": "Sint Maarten (Dutch part)",
+  "flag": "https://flagcdn.com/sx.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511091d"
+  },
+  "name": "Slovakia",
+  "flag": "https://flagcdn.com/sk.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511091b"
+  },
+  "name": "Singapore",
+  "flag": "https://flagcdn.com/sg.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511091f"
+  },
+  "name": "Solomon Islands",
+  "flag": "https://flagcdn.com/sb.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511091e"
+  },
+  "name": "Slovenia",
+  "flag": "https://flagcdn.com/si.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110921"
+  },
+  "name": "South Africa",
+  "flag": "https://flagcdn.com/za.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110920"
+  },
+  "name": "Somalia",
+  "flag": "https://flagcdn.com/so.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110923"
+  },
+  "name": "Korea (Republic of)",
+  "flag": "https://flagcdn.com/kr.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110924"
+  },
+  "name": "Spain",
+  "flag": "https://flagcdn.com/es.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110922"
+  },
+  "name": "South Georgia and the South Sandwich Islands",
+  "flag": "https://flagcdn.com/gs.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110925"
+  },
+  "name": "Sri Lanka",
+  "flag": "https://flagcdn.com/lk.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110926"
+  },
+  "name": "Sudan",
+  "flag": "https://flagcdn.com/sd.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110927"
+  },
+  "name": "South Sudan",
+  "flag": "https://flagcdn.com/ss.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110928"
+  },
+  "name": "Suriname",
+  "flag": "https://flagcdn.com/sr.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110929"
+  },
+  "name": "Svalbard and Jan Mayen",
+  "flag": "https://flagcdn.com/sj.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511092a"
+  },
+  "name": "Swaziland",
+  "flag": "https://flagcdn.com/sz.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511092b"
+  },
+  "name": "Sweden",
+  "flag": "https://flagcdn.com/se.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511092c"
+  },
+  "name": "Switzerland",
+  "flag": "https://flagcdn.com/ch.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511092d"
+  },
+  "name": "Syrian Arab Republic",
+  "flag": "https://flagcdn.com/sy.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511092e"
+  },
+  "name": "Taiwan",
+  "flag": "https://flagcdn.com/tw.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511092f"
+  },
+  "name": "Tajikistan",
+  "flag": "https://flagcdn.com/tj.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110930"
+  },
+  "name": "Tanzania, United Republic of",
+  "flag": "https://flagcdn.com/tz.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110931"
+  },
+  "name": "Thailand",
+  "flag": "https://flagcdn.com/th.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110932"
+  },
+  "name": "Timor-Leste",
+  "flag": "https://flagcdn.com/tl.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110933"
+  },
+  "name": "Togo",
+  "flag": "https://flagcdn.com/tg.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110934"
+  },
+  "name": "Tokelau",
+  "flag": "https://flagcdn.com/tk.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108f4"
+  },
+  "name": "Niue",
+  "flag": "https://flagcdn.com/nu.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110936"
+  },
+  "name": "Trinidad and Tobago",
+  "flag": "https://flagcdn.com/tt.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110937"
+  },
+  "name": "Tunisia",
+  "flag": "https://flagcdn.com/tn.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110938"
+  },
+  "name": "Turkey",
+  "flag": "https://flagcdn.com/tr.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110939"
+  },
+  "name": "Turkmenistan",
+  "flag": "https://flagcdn.com/tm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511093a"
+  },
+  "name": "Turks and Caicos Islands",
+  "flag": "https://flagcdn.com/tc.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511093b"
+  },
+  "name": "Tuvalu",
+  "flag": "https://flagcdn.com/tv.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511093c"
+  },
+  "name": "Uganda",
+  "flag": "https://flagcdn.com/ug.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c751108fc"
+  },
+  "name": "Palestine, State of",
+  "flag": "https://flagcdn.com/ps.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511093e"
+  },
+  "name": "United Arab Emirates",
+  "flag": "https://flagcdn.com/ae.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511093f"
+  },
+  "name": "United Kingdom of Great Britain and Northern Ireland",
+  "flag": "https://flagcdn.com/gb.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110940"
+  },
+  "name": "United States of America",
+  "flag": "https://flagcdn.com/us.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110941"
+  },
+  "name": "Uruguay",
+  "flag": "https://flagcdn.com/uy.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110942"
+  },
+  "name": "Uzbekistan",
+  "flag": "https://flagcdn.com/uz.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110943"
+  },
+  "name": "Vanuatu",
+  "flag": "https://flagcdn.com/vu.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110944"
+  },
+  "name": "Venezuela (Bolivarian Republic of)",
+  "flag": "https://flagcdn.com/ve.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110945"
+  },
+  "name": "Vietnam",
+  "flag": "https://flagcdn.com/vn.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110946"
+  },
+  "name": "Wallis and Futuna",
+  "flag": "https://flagcdn.com/wf.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110947"
+  },
+  "name": "Western Sahara",
+  "flag": "https://flagcdn.com/eh.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110949"
+  },
+  "name": "Zambia",
+  "flag": "https://flagcdn.com/zm.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511094a"
+  },
+  "name": "Zimbabwe",
+  "flag": "https://flagcdn.com/zw.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110948"
+  },
+  "name": "Yemen",
+  "flag": "https://flagcdn.com/ye.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c75110935"
+  },
+  "name": "Tonga",
+  "flag": "https://flagcdn.com/to.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef118fa2be8e7c7511093d"
+  },
+  "name": "Ukraine",
+  "flag": "https://flagcdn.com/ua.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654a0eac22861d007608982a"
+  },
+  "name": "Albania",
+  "flag": "https://flagcdn.com/al.svg",
+  "createdAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T05:33:03.216Z"
+  }
+}]
